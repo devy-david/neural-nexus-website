@@ -85,6 +85,7 @@ Using Python Flask or HTML/JS, a basic interface to demonstrate decision-making 
 
 
 
+![WhatsApp Image 2024-12-18 at 17 33 00_d12a5d2d](https://github.com/user-attachments/assets/5dd63206-723c-424c-bc08-0ff036549c72)
 
 
 
